@@ -27,6 +27,7 @@ My experience with JavaScript technologies includes the following frameworks and
 - **Vue.js**
 - **jQuery**
 - **Chart.js**
+
 I usually use this programming language when creating the client side of the application, where the following technologies I have worked with are also required: Bootstrap, Tailwind
 
 I have experience developing on the PHP web development framework **Symfony** and the **Rachet** library.
