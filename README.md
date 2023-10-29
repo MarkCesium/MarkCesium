@@ -7,14 +7,27 @@ Here you can see my projects, projects with me, my experiments, drafts, etc.
 
 ## My tech stack 🤓
 I often use the **Python** as my primary programming language in my projects, but often one language is not enough to write a project, so I use different programming languages and technologies such as:
-*JavaScript
-*PHP
-*HTML
-*CSS
+- **JavaScript**
+- **PHP**
+- **HTML**
+- **CSS**
 
-When developing in the Python programming language, I use the following frameworks and libraries: **FastAPI, Django, SQLAlchemy, Alembic, Aiogram, BeautifulSoup4,** etc.
+When developing in the Python programming language, I use the following frameworks and libraries: 
+- **FastAPI**
+- **Django**
+- **SQLAlchemy**
+- **Alembic**
+- **Aiogram**
+- **BeautifulSoup4**
+- etc.
 
-My experience with JavaScript technologies includes the following frameworks and libraries: **jQuery, Knockout.js, React.js, Vue.js, Chart.js**. I usually use this programming language when creating the client side of the application, where the following technologies I have worked with are also required: Bootstrap, Tailwind
+My experience with JavaScript technologies includes the following frameworks and libraries:
+- **Knockout.js**
+- **React.js**
+- **Vue.js**
+- **jQuery**
+- **Chart.js**
+I usually use this programming language when creating the client side of the application, where the following technologies I have worked with are also required: Bootstrap, Tailwind
 
 I have experience developing on the PHP web development framework **Symfony** and the **Rachet** library.
 
