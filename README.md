@@ -27,7 +27,7 @@ My experience with JavaScript technologies includes the following frameworks and
 
 I usually use this programming language when creating the client side of the application, where the following technologies I have worked with are also required: Bootstrap, Tailwind
 
-####⚡ I have experience developing on the PHP web development framework **Symfony**.
+#### ⚡ I have experience developing on the PHP web development framework **Symfony**.
 
 ## See you later!
 Thank you for visiting my profile on GitHub! I continue to learn development and share my projects and ideas here, so you know where to find me. Your stars, forks, and contributions mean a lot to me and I appreciate your participation. See you later!
