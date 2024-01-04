@@ -7,10 +7,10 @@ Here you can see my projects, projects with me, my experiments, drafts, etc.
 
 ## My tech stack 🤓
 I often use the **Python** as my primary programming language in my projects, but often one language is not enough to write a project, so I use different programming languages and technologies such as:
+- **Python**
 - **JavaScript**
 - **PHP**
-- **HTML**
-- **CSS**
+- **HTML** and **CSS**
 
 When developing in the Python programming language, I use the following frameworks and libraries: 
 - **FastAPI**
@@ -27,7 +27,7 @@ My experience with JavaScript technologies includes the following frameworks and
 
 I usually use this programming language when creating the client side of the application, where the following technologies I have worked with are also required: Bootstrap, Tailwind
 
-#### ⚡ I have experience developing on the PHP web development framework **Symfony**.
+#### ⚡ I have experience developing on the PHP framework **Symfony**.
 
 ## See you later!
 Thank you for visiting my profile on GitHub! I continue to learn development and share my projects and ideas here, so you know where to find me. Your stars, forks, and contributions mean a lot to me and I appreciate your participation. See you later!
