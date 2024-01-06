@@ -26,7 +26,6 @@ I also use the following libraries during development:
 - **Jinja2**
 - **BeautifulSoup4**
 - **Web3**
-<!-- - **Aioredis** -->
 - etc.
 
 My frontend development experience includes the following technologies:
