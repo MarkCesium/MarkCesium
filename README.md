@@ -1,33 +1,40 @@
 # Hi there 👋
-**I am a developer interested in building web applications using the Python programming language.**
-However, my interest is not limited to web development and using Python only
+**I'm a python web developer.**
+However, my interests are not limited to web development and python development
 
 ## About repositories 💾
-Here you can see my projects, projects with me, my experiments, drafts, etc.
+Here you can see my projects, experiments, drafts, projects with me, etc.
 
 ## My tech stack 🤓
-I often use the **Python** as my primary programming language in my projects, but often one language is not enough to write a project, so I use different programming languages and technologies such as:
+I often use the **Python** as my primary programming language in my projects, but often one language is not enough to write a project, so I use different programming languages such as:
 - **Python**
 - **JavaScript**
 - **PHP**
 - **HTML** and **CSS**
+- **C++/C** (embedded development)
+  
+My primary **technology stack** when building web applications in python:
+- **FastAPI** (with **Pydantic**)
+- **SQLAlchemy** (with **Alembic**)
+- **PostgreSQL**
 
-When developing in the Python programming language, I use the following frameworks and libraries: 
-- **FastAPI**
-- **SQLAlchemy**
-- **Alembic**
+But I also have experience developing a web application on PHP framework **Symfony**
+
+I also use the following libraries during development: 
 - **Aiogram**
+- **Aiohttp**
+- **Jinja2**
+- **BeautifulSoup4**
+- **Web3**
+<!-- - **Aioredis** -->
 - etc.
 
-My experience with JavaScript technologies includes the following frameworks and libraries:
-- **Knockout.js**
-- **React.js**
+My frontend development experience includes the following technologies:
+- **React/Knockout.js**
 - **jQuery**
 - **Chart.js**
-
-I usually use this programming language when creating the client side of the application, where the following technologies I have worked with are also required: Bootstrap, Tailwind
-
-#### ⚡ I have experience developing on the PHP framework **Symfony**.
+- **WebSockets**
+- **Tailwind/Bootstrap**
 
 ## See you later!
 Thank you for visiting my profile on GitHub! I continue to learn development and share my projects and ideas here, so you know where to find me. Your stars, forks, and contributions mean a lot to me and I appreciate your participation. See you later!
