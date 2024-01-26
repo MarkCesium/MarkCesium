@@ -11,16 +11,18 @@ I often use the **Python** as my primary programming language in my projects, bu
 - **JavaScript**
 - **PHP**
 - **HTML** and **CSS**
-- **C++/C** (embedded development)
+- **C++/C** _(embedded development)_
   
-My primary **technology stack** when building web applications in python:
-- **FastAPI** (with **Pydantic**)
-- **SQLAlchemy** (with **Alembic**)
+⚡ My primary **technology stack** when building web applications in python:
+- **FastAPI**
+- **SQLAlchemy** with **Alembic** _(all asynchronous)_
 - **PostgreSQL**
 
-But I also have experience developing a web application on PHP framework **Symfony**
+I'm currently learning **Django** and **Django REST framework** to improve my knowledge base and expand my technology stack
 
-I also use the following libraries during development: 
+✨ I also have experience developing a web application on PHP framework **Symfony**
+
+Also I often use the following frameworks and libraries during development: 
 - **Aiogram**
 - **Aiohttp**
 - **Jinja2**
