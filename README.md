@@ -17,7 +17,7 @@
 
 ---
 
-### About me
+### 🧑🏻‍🎓 About me
 - :books: I'm currently learning **FastAPI, Django REST framework**
 - 🔭 I’m currently working on my **PasteBin** realisation
 - ⚡ Sometimes I do embedded development
@@ -26,23 +26,23 @@
 
 ### :toolbox: Languages & Tools:
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAl" alt="SQLAl" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/djangorest/djangorest-original.svg" title="DRF" alt="DRF" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAl" alt="SQLAl" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" title="DRF" alt="DRF" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40">
 </div>
 
 ---
@@ -55,7 +55,7 @@
 ---
 
 ## See you later!
-Thank you for visiting my profile on GitHub! I continue to learn development and share my projects and ideas here, so you know where to find me. Your stars, forks, and contributions mean a lot to me and I appreciate your participation. See you later!
+Thank you for visiting my profile on GitHub! I continue to learn development and share my projects and ideas here, so you know where to find me. Your stars, forks, and contributions mean a lot to me and I appreciate your participation.
 <!--
 **MarkCesium/MarkCesium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
