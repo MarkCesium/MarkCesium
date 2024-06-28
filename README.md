@@ -7,26 +7,26 @@
     </h3>
     <div id="badges">
         <a href="https://t.me/mark_cesium">
-            <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
         </a>
         <a href="mailto:cesiummark01@gmail.com">
-            <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
         </a>
     </div>
 </div>
 
 ---
 
-### 🧑🏻‍🎓 About me
+## 🧑🏻‍🎓 About me
 - :books: My main **stack** is **FastAPI, Postgres, Redis, Vue**
 - 🔭 I'm currently in the process of developing the Telegram **[WeatherBot](https://github.com/MarkCesium/weather-bot)**, and I'm also making my own copy of PasteBin - **CesBin**
 - ✨ My main goal is to become a fullstack developer
 - ⚡ My goal now is to get into freelancing to boost my commercial experience.
 ---
 
-### :toolbox: Languages & Tools
+## :toolbox: Languages & Tools
 
-#### Backend
+### Backend
 <div>
     <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">&nbsp; -->
@@ -41,7 +41,7 @@
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40">&nbsp; -->
 </div>
 
-#### Frontend
+### Frontend
 <div>
     <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40">&nbsp; -->
@@ -57,7 +57,7 @@
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40">&nbsp; -->
 </div>
 
-#### Databases
+### Databases
 <div>
     <img alt="postgres" src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40">&nbsp; -->
@@ -69,7 +69,7 @@
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40">&nbsp; -->
 </div>
 
-#### Other tools
+### Other tools
 <div>
     <img alt="docker" src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40">&nbsp; -->
@@ -79,15 +79,18 @@
 
 ---
 
-### :sparkles: My statistics:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarkCesium&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkCesium&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## :sparkles: My statistics:
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkCesium&show_icons=true&theme=radical&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkCesium&layout=compact&theme=radical"/>
+</div>
 
 ---
 
 ## See you later!
-**Thank you** for visiting my profile on GitHub! I continue to learn development and share my projects and ideas here. If you are interested in **collaborating** or **hiring**, please **contact me** at the contacts in the resume header.
+**Thank you** for visiting my profile on GitHub! I continue to learn development and share my projects and ideas here.
+
+If you are interested in **collaborating** or **hiring**, please **contact me** at the contacts in the resume header.
 <!--
 **MarkCesium/MarkCesium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
