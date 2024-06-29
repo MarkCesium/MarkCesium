@@ -20,8 +20,8 @@
 ## 🧑🏻‍🎓 About me
 - :books: My main **stack** is **FastAPI, Postgres, Redis, Vue**
 - 🔭 I'm currently in the process of developing the Telegram **[WeatherBot](https://github.com/MarkCesium/weather-bot)**, and I'm also making my own copy of PasteBin - **CesBin**
-- ✨ My main goal is to become a fullstack developer
-- ⚡ My goal now is to get into freelancing to boost my commercial experience.
+- ✨ My main goal is to become a fullstack developer. My goal now is to get into freelancing to boost my commercial experience.
+- 📝 [Here you can read my CV](https://drive.google.com/file/d/1aMFO_JkuKcHveQ_BlWunwhqdGG_BfPRI/view?usp=sharing)
 ---
 
 ## :toolbox: Languages & Tools
