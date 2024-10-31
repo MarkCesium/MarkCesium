@@ -19,9 +19,11 @@
 
 ## 🧑🏻‍🎓 About me
 - :books: My main **stack** is **FastAPI, Postgres, Redis**
-- 🔭 I'm currently in the process of developing the Telegram **[WeatherBot](https://github.com/MarkCesium/weather-bot)**, and I'm also making my own copy of PasteBin - **CesBin**
-- ✨ My main goal is to become a fullstack developer. My goal now is to get into freelancing to boost my commercial experience.
-- 📝 [Here you can read my CV](https://drive.google.com/file/d/1aMFO_JkuKcHveQ_BlWunwhqdGG_BfPRI/view?usp=sharing)
+- 🔭 Recently I've been hosting one of my projects - **[CesSecrets](https://github.com/MarkCesium/secretMessageService)**. This project is in open testing and will be finalized
+I maintain a Telegram bot for weather data - **[NadvorjeBot](https://github.com/MarkCesium/weather-bot)**
+I plan to make my own copy of the pastebin site in the near future - **[CesBin](https://github.com/MarkCesium/CesBinServer)**
+- ✨ My main goal is to become a fullstack developer. Now my goal is to deepen my knowledge of the technologies I use and to learn constantly
+- 📝 [Here you can read my CV](https://drive.google.com/file/d/1aMFO_JkuKcHveQ_BlWunwhqdGG_BfPRI/view?usp=sharing) // not up-to-date
 ---
 
 ## :toolbox: Languages & Tools
@@ -44,17 +46,11 @@
 ### Frontend
 <div>
     <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40">&nbsp; -->
-<!--     <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />  -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40">&nbsp; -->
+    <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
     <img alt="vue" src="https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40">&nbsp; -->
-<!--     <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40">&nbsp; -->
+    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40">&nbsp; -->
     <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40">&nbsp; -->
 </div>
 
 ### Databases
