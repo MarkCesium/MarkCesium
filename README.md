@@ -19,11 +19,12 @@
 
 ## 🧑🏻‍🎓 About me
 - :books: My main **stack** is **FastAPI, Postgres, Redis**
-- 🔭 Recently I've been hosting one of my projects - **[CesSecrets](https://github.com/MarkCesium/secretMessageService)**. This project is in open testing and will be finalized
-I maintain a Telegram bot for weather data - **[NadvorjeBot](https://github.com/MarkCesium/weather-bot)**
-I plan to make my own copy of the pastebin site in the near future - **[CesBin](https://github.com/MarkCesium/CesBinServer)**
+- 👨🏻‍💻My current projects:
+- - Recently I've been hosting one of my projects - **[CesSecrets](https://github.com/MarkCesium/secretMessageService)**. This project is in open testing and will be finalized
+- - I maintain a Telegram bot for weather data - **[NadvorjeBot](https://github.com/MarkCesium/weather-bot)**
+- - I plan to make my own copy of the pastebin site in the near future - **[CesBin](https://github.com/MarkCesium/CesBinServer)**
 - ✨ My main goal is to become a fullstack developer. Now my goal is to deepen my knowledge of the technologies I use and to learn constantly
-- 📝 [Here you can read my CV](https://drive.google.com/file/d/1aMFO_JkuKcHveQ_BlWunwhqdGG_BfPRI/view?usp=sharing) // not up-to-date
+- 📝 [Here you can read my CV](https://drive.google.com/file/d/1aMFO_JkuKcHveQ_BlWunwhqdGG_BfPRI/view?usp=sharing)
 ---
 
 ## :toolbox: Languages & Tools
