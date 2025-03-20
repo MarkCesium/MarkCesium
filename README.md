@@ -72,6 +72,8 @@
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40">&nbsp; -->
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"> -->
+    <img alt="celery" src="https://img.shields.io/badge/Celery-C1D1F95?style=for-the-badge&logo=celery&logoColor=white" />
+    <img alt="rabbitmq" src="https://img.shields.io/badge/RabbitMQ-e66c2c?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </div>
 
 ---
