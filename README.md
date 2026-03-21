@@ -1,13 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A9E8,50:9B8EC4,100:7B6BA0&height=200&section=header&text=Hi%20👋%20I'm%20Mark&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Python%20Backend%20Developer&descSize=20&descAlignY=55&descColor=ffffff" width="100%" />
 
-<div align="center">
-    <a href="https://t.me/mark_cesium">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="mailto:cesiummark01@gmail.com">
-        <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-</div>
+<p align="center">
+    <a href="https://t.me/mark_cesium"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
+    <a href="mailto:cesiummark01@gmail.com"><img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 ## About me
 
