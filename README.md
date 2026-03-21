@@ -66,8 +66,6 @@
     <img alt="openai" src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
----
-
 ## My statistics
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkCesium&show_icons=true&rank_icon=github&bg_color=1a1425&title_color=B8A9E8&text_color=d4ccef&icon_color=9B8EC4&border_color=7B6BA0"/>
