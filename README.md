@@ -1,21 +1,13 @@
-<div id="header" align="center">
-    <h1>
-        Hi! My name's Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
-    <h3>
-        Python Backend Developer from Minsk
-    </h3>
-    <div id="badges">
-        <a href="https://t.me/mark_cesium">
-            <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-        </a>
-        <a href="mailto:cesiummark01@gmail.com">
-            <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-    </div>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A9E8,50:9B8EC4,100:7B6BA0&height=200&section=header&text=Hi%20👋%20I'm%20Mark&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Python%20Backend%20Developer&descSize=20&descAlignY=55&descColor=ffffff" width="100%" />
 
----
+<div align="center">
+    <a href="https://t.me/mark_cesium">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="mailto:cesiummark01@gmail.com">
+        <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+</div>
 
 ## About me
 
