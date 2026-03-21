@@ -72,6 +72,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkCesium&layout=compact&bg_color=1a1425&title_color=B8A9E8&text_color=d4ccef&icon_color=9B8EC4&border_color=7B6BA0"/>
 </div>
 
----
-
 **Thank you** for visiting my profile! If you're interested in **collaborating** or **hiring**, feel free to reach out via the contacts above.
