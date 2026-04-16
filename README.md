@@ -14,9 +14,15 @@
 - AI integrations: NLP models, OpenAI API
 - Also comfortable with frontend (JS/TS, Vue, React) and DevOps (Docker, CI/CD, Linux)
 
-## Projects
+## Flagship
 
-- **[PlaceBrain](https://github.com/PlaceBrain)** — IoT platform built with Python, Vue and gRPC. A rearchitected evolution of [HomeBrain](https://github.com/MarkCesium/HomeBrain)
+### [PlaceBrain](https://github.com/PlaceBrain) — IoT platform
+
+A microservices-based IoT platform built with Python, Vue and gRPC. A rearchitected evolution of [HomeBrain](https://github.com/MarkCesium/HomeBrain)
+
+## Other projects
+
+- **[Slouka](https://github.com/MarkCesium/Slouka)** — Telegram bot for learning Belarusian vocabulary with spaced repetitions (SM2)
 - **[NadvorjeBot](https://github.com/MarkCesium/weather-bot)** — Telegram bot for weather data
 - **[UrlShortener](https://github.com/MarkCesium/UrlShortener)** — URL shortener service
 - **[CesSecrets](https://github.com/MarkCesium/secretMessageService)** — Secret message sharing service
